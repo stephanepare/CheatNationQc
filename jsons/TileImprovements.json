@@ -5,7 +5,6 @@
 		"terrainsCanBeBuiltOn": ["Land", "Forest", "Jungle"],
 		"food": 3,
 		"production": 3,
-		"gold": 1,
 		"culture": 1,
 		"faith": 1
 		"turnsToBuild": 1,
