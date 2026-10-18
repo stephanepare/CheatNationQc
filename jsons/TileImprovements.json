@@ -3,13 +3,13 @@
 		"name": "Poutine Fest",
 		"uniqueTo": "Quebec",
 		"terrainsCanBeBuiltOn": ["Land", "Forest", "Jungle"],
-		"food": 3,
+		"food": 4,
 		"production": 3,
 		"culture": 1,
 		"faith": 1
 		"turnsToBuild": 1,
 		"uniques": ["[+1 Food] for each adjacent [Oasis]",
-			"[+1 Food] for each adjacent [Poutine Fest]", "Can also be built on tiles adjacent to fresh water",
+			"Can also be built on tiles adjacent to fresh water",
 			"[+1 Production] for each adjacent [Hill]", 
 			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>", "[+1 Production] <after discovering [Scientific Theory]>",
 			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>", "[+1 Production] <after discovering [Chemistry]>",]
