@@ -20,7 +20,7 @@
 		"name": "Cajun Boats",
 		"uniqueTo": "Quebec",
 		"turnsToBuild": 1,  // Allows this to be constructed for city-states
-		"uniques": ["Can only be built on [Water] tiles", "Pillaging this improvement yields approximately [+1 Gold]",
+		"uniques": ["Can only be built on [Water] tiles",
 		"food": 4,
 		"production": 3,
 ],
