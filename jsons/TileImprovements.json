@@ -19,11 +19,10 @@
 	{
 		"name": "Cajun Boats",
 		"uniqueTo": "Quebec",
-		"turnsToBuild": 1,  // Allows this to be constructed for city-states
-		"uniques": ["Can only be built on [Water] tiles",
 		"food": 4,
-		"production": 3,
-],
+		"production": 3
+		"turnsToBuild": 1,  // Allows this to be constructed for city-states
+		"uniques": ["Can only be built on [Water] tiles"],
 		"shortcutKey": "P"
 	},
 	
