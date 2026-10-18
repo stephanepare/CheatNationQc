@@ -14,5 +14,17 @@
 			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>", "[+1 Production] <after discovering [Scientific Theory]>",
 			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>", "[+1 Production] <after discovering [Chemistry]>",]
 		"shortcutKey": "P"
-	}
+		
+	},
+	{
+		"name": "Cajun Boats",
+		"uniqueTo": "Quebec",
+		"turnsToBuild": 1,  // Allows this to be constructed for city-states
+		"uniques": ["Can only be built on [Water] tiles", "Pillaging this improvement yields approximately [+0 Gold]",
+		"food": 4,
+		"production": 3,
+],
+		"shortcutKey": "P"
+	},
+	
 ]
