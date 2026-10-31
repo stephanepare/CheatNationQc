@@ -32,7 +32,7 @@
 			"[-100]% maintenance on road & railroads", "No Maintenance costs for improvements in [All] tiles", "[+1 Production, +1 Food, +1 Culture, +1 Faith] from every [Strategic resource]", 
 			"[+2 Food, +2 Production, +2 Gold, +2 Culture] from every specialist [in all cities]", "[+2 Food, +2 Production, +2 Gold, +2 Faith, +2 Culture] from every [Great Improvement]",
 			"[+100 Gold] for discovering a Natural Wonder (bonus enhanced to [+500 Gold] if first to discover it)", "[+400]% Yield from every [Natural Wonder]",
-			"[+3 Food, +3 Production, +1 Culture] from [All] tiles [in all cities]",
+			"[+3 Food, +3 Production, +1 Culture, +1 faith] from [All] tiles [in all cities]",
 			"Land units may cross [Mountain] tiles after the first [Worker] is earned",  "May choose [10] additional belief(s) of any type when [founding] a religion", "May choose [10] additional belief(s) of any type when [enhancing] a religion",
 			"Religion naturally spreads to cities [15] tiles away", "[+100]% Natural religion spread [in all cities]", "Production to [Gold] conversion in cities changed by [-95]%", "Production to [Science] conversion in cities changed by [-95]%"]
 		"cities": ["Quebec", "Montreal", "Longueuil", "Levis", "Ste-Foy", "Laval", "Shawinigan", "Trois-Riviere", "St-Hubert", "St-Lambert", "Ville Lemoyne", "Laprairie", "Candiac", "Chambly", "Greenfield Park", "Boucherville", "Vercheres", "Varenne", "Ste-Julie", "St-Jean", "Lauzon", "Beauce", "Sept-Iles", "Mathane", "Rimouski", "Baie-Comeau", "Ste-Hyacinte", "Drummonville", "Granby", "Sherbrooke", "Bois-Brillant", "Lachute", "Dorval", "Valleyfield", "Hemmingford", "Gatineau", "Mont Tremblant", "Mont St-Sauveur", "St-Bruno", "St-Hillaire", "Mirabel", "Lachenaie", "Terrebonne", "Ste-adele", "Beloeil", "Sorel"],
